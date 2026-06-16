@@ -1,9 +1,0 @@
-This case simulates an unsupported or suspicious file type.
-
-Original simulated attachment name:
-unknown-document.exe
-
-Expected outcome:
-Rejected due to unsupported file type.
-
-This is synthetic demo data for portfolio use only.
