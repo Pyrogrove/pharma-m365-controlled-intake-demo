@@ -1,0 +1,41 @@
+Subject: CMO ASN and Invoice Submitted - EPCIS File Pending Confirmation
+
+Dear Brand Owner Supply Chain Team,
+
+The Taiwan CMO has submitted the ASN and invoice for a finished drug product shipment to the US 3PL warehouse. Please note that EPCIS file availability has not yet been confirmed by the serialization operations team.
+
+Business References:
+Distributor PO: DIST-PO-2026-0422
+Brand Owner PO to CMO: BO-CMO-PO-2026-1058
+CMO ASN: CMO-ASN-2026-7012
+CMO Invoice: CMO-INV-2026-8815
+Product Code: FG-BX220-US
+Finished Good Lot: LOT-FG-2026-0620-B
+CMO Site: Taiwan Demo CMO Site
+Ship-To: Demo US 3PL Warehouse
+Shipment Type: Standard Shipment
+Split Shipment Sequence: Not Applicable
+Planned PO Quantity: 8,000 units
+Shipped Quantity: 8,000 units
+Remaining Quantity: 0 units
+
+Serialization / DSCSA Readiness:
+Serialized: Yes
+Aggregation Completed: Yes
+EPCIS Required: Yes
+EPCIS File Status: Not Confirmed
+EPCIS File Name:
+EPCIS Transmission Target: US 3PL / Distributor downstream system
+
+Quality / Release Support:
+CoA Available: Yes
+Batch Release Support Document Available: Yes
+Temperature Excursion Reported: No
+
+Operational Note:
+Please hold downstream shipment confirmation until EPCIS file availability is confirmed.
+
+This is synthetic demo data for portfolio use only.
+
+Regards,
+Taiwan Demo CMO Operations Team

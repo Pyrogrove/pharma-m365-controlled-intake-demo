@@ -1,0 +1,41 @@
+Subject: Split Shipment Notice - Quantity Mismatch Requires Review
+
+Dear Brand Owner Procurement and Supply Chain Team,
+
+The Taiwan CMO is sending a split-shipment notice for the below finished drug product order. The shipped quantity does not reconcile cleanly against the planned PO quantity, and the remaining quantity has not been provided in the initial notice.
+
+Business References:
+Distributor PO: DIST-PO-2026-0430
+Brand Owner PO to CMO: BO-CMO-PO-2026-1063
+CMO ASN: CMO-ASN-2026-7025
+CMO Invoice: CMO-INV-2026-8830
+Product Code: FG-CX330-US
+Finished Good Lot: LOT-FG-2026-0625-C
+CMO Site: Taiwan Demo CMO Site
+Ship-To: Demo US 3PL Warehouse
+Shipment Type: Split Shipment
+Split Shipment Sequence: 1 of 2
+Planned PO Quantity: 12,000 units
+Shipped Quantity: 5,500 units
+Remaining Quantity:
+Estimated Remaining Shipment Date:
+
+Serialization / DSCSA Readiness:
+Serialized: Yes
+Aggregation Completed: Yes
+EPCIS Required: Yes
+EPCIS File Status: Available
+EPCIS File Name: EPCIS_DIST-PO-2026-0430_LOT-FG-2026-0625-C_SHIP1.xml
+
+Quality / Release Support:
+CoA Available: Yes
+Batch Release Support Document Available: Yes
+Temperature Excursion Reported: No
+
+Operational Note:
+The CMO noted a partial shipment due to shipping capacity limitation, but the remaining quantity and second shipment date were not included. Please review before AP payment approval or distributor fulfilment confirmation.
+
+This is synthetic demo data for portfolio use only.
+
+Regards,
+Taiwan Demo CMO Logistics Coordinator

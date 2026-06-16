@@ -1,0 +1,47 @@
+Subject: CMO Split Shipment Intake Packet - Shipment 1 of 2 - FG-AX104-US
+
+Dear Brand Owner Supply Chain Team,
+
+Please find the first split-shipment intake notice for the finished drug product manufactured at the Taiwan CMO site.
+
+Scenario Context:
+This shipment supports the US distributor demand order and is being sent to the appointed US 3PL warehouse.
+
+Business References:
+Distributor PO: DIST-PO-2026-0418
+Brand Owner PO to CMO: BO-CMO-PO-2026-1051
+CMO ASN: CMO-ASN-2026-7001
+CMO Invoice: CMO-INV-2026-8801
+Product Code: FG-AX104-US
+Finished Good Lot: LOT-FG-2026-0616-A
+CMO Site: Taiwan Demo CMO Site
+Ship-To: Demo US 3PL Warehouse
+Shipment Type: Split Shipment
+Split Shipment Sequence: 1 of 2
+Planned PO Quantity: 10,000 units
+Shipped Quantity: 6,000 units
+Remaining Quantity: 4,000 units
+Estimated Remaining Shipment Date: 2026-06-23
+
+Serialization / DSCSA Readiness:
+Serialized: Yes
+Aggregation Completed: Yes
+EPCIS Required: Yes
+EPCIS File Status: Available
+EPCIS File Name: EPCIS_DIST-PO-2026-0418_LOT-FG-2026-0616-A_SHIP1.xml
+EPCIS Transmission Target: US 3PL / Distributor downstream system
+EPCIS Business Step: shipping
+EPCIS Disposition: in_transit
+
+Quality / Release Support:
+CoA Available: Yes
+Batch Release Support Document Available: Yes
+Temperature Excursion Reported: No
+
+Operational Note:
+This is the first partial shipment due to container space limitation. Remaining quantity is planned for a second shipment next week.
+
+This is synthetic demo data for portfolio use only.
+
+Regards,
+Taiwan Demo CMO Operations Team

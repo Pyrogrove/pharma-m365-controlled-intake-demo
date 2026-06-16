@@ -1,0 +1,12 @@
+This case simulates an unsupported or suspicious file type received through the intake process.
+
+Original simulated attachment name:
+CMO-ASN-2026-7030.exe
+
+Expected outcome:
+Rejected due to unsupported file type.
+
+Business Context:
+The sender claimed the attachment contained ASN and EPCIS shipment details, but the file extension is not accepted for this controlled intake workflow.
+
+This is synthetic demo data for portfolio use only.

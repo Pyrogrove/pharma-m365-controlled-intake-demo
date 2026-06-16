@@ -1,0 +1,33 @@
+Subject: China API Material Delay Notice Affecting Taiwan CMO Production
+
+Dear Brand Owner Procurement Team,
+
+Please note a raw material delay from the China API supplier that may affect the Taiwan CMO production schedule for the US market finished drug product.
+
+Business References:
+Brand Owner PO to API Supplier: BO-API-PO-2026-2107
+China API Supplier ASN: API-ASN-2026-5109
+Linked CMO PO: BO-CMO-PO-2026-1072
+Planned Finished Product: FG-DX440-US
+API Material Code: API-DX440
+API Material Lot: API-LOT-CN-2026-0609
+Supplier Site: China Demo API Supplier Site
+Ship-To: Taiwan Demo CMO Site
+Planned API Quantity: 25 kg
+Shipped API Quantity: 15 kg
+Remaining API Quantity: 10 kg
+Delay Reason: Export documentation correction and carrier capacity constraint
+Revised API Arrival Date at Taiwan CMO: 2026-06-28
+
+Serialization / DSCSA Readiness:
+Serialized: Not applicable at API stage
+EPCIS Required: No for API material intake
+Downstream Impact: Finished goods serialization and EPCIS shipment timeline may be delayed after CMO production rescheduling
+
+Operational Note:
+This is not a finished goods shipment notice. Procurement should coordinate with the China API supplier and Taiwan CMO before confirming revised production and distributor fulfilment dates.
+
+This is synthetic demo data for portfolio use only.
+
+Regards,
+China Demo API Supplier Customer Service Team
