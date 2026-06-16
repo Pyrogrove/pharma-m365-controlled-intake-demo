@@ -1,0 +1,16 @@
+Subject: Batch Deviation Notice - LOT-2026-0616-A
+
+Dear QA Team,
+
+Please review the attached deviation notice for Component A-104 supplied to the Singapore distribution site.
+
+Supplier: Demo Supplier Pte Ltd
+Batch / Lot Number: LOT-2026-0616-A
+Document Type: Deviation Notice
+Severity: Medium
+Issue Summary: Temperature excursion observed during local staging for approximately 35 minutes. Product remained sealed. Initial supplier assessment suggests no visible package damage.
+
+This is synthetic demo data for portfolio use only.
+
+Regards,
+Demo Supplier QA Team
