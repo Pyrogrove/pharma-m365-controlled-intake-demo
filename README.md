@@ -1,10 +1,27 @@
 # Pharma M365 Controlled Intake Demo
 
-Work-in-progress portfolio demo showing a controlled document intake workflow for pharma / medtech-style operations using Microsoft 365.
+Work-in-progress portfolio demo showing a controlled document intake workflow for a pharma supply-chain scenario using Microsoft 365.
 
-Current status:
-- Synthetic sample data created
-- GitHub repo structure created
-- SharePoint Library and List setup in progress
+## Scenario
 
-This demo uses synthetic data only and is not a production GxP or compliance system.
+This demo simulates a US pharmaceutical brand owner coordinating with:
+
+- a Taiwan contract manufacturer (CMO)
+- a China API / raw material supplier
+- a US 3PL warehouse
+- a US distributor
+
+The operational pain is not just receiving documents. The real pain is that CMO split shipments, batch/lot references, ASN updates, invoice timing, 3PL receipt status, and DSCSA/EPCIS readiness are interrelated. If key documents or metadata are missing, the brand owner cannot confidently release downstream fulfilment, approve CMO payment, or maintain audit-ready traceability.
+
+## Demo Objective
+
+The demo uses Microsoft 365 to show a controlled intake pattern:
+
+```text
+Incoming CMO / supplier document
+-> SharePoint document library
+-> SharePoint intake tracker
+-> metadata validation
+-> exception status
+-> human review queue
+-> management visibility
